@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Mod04_Ribbon_Challenge - Command 1</Text>
+    <Description>Some description for Mod04_Ribbon_Challenge</Description>
+    <Assembly>Mod04_Ribbon_Challenge.dll</Assembly>
+    <FullClassName>Mod04_Ribbon_Challenge.Command1</FullClassName>
+    <ClientId>4d2dbe0d-5715-4b85-8c61-e437d07a4fc3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Mod04_Ribbon_Challenge - Command 2</Text>
+    <Description>Some description for Mod04_Ribbon_Challenge</Description>
+    <Assembly>Mod04_Ribbon_Challenge.dll</Assembly>
+    <FullClassName>Mod04_Ribbon_Challenge.Command2</FullClassName>
+    <ClientId>22fc057b-35c7-4be5-9acf-ad4b259ba89a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Mod04_Ribbon_Challenge</Name>
+    <Assembly>Mod04_Ribbon_Challenge.dll</Assembly>
+    <FullClassName>Mod04_Ribbon_Challenge.App</FullClassName>
+    <ClientId>dc9d6604-de34-4ba1-8524-e3cdd026f1cd</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
